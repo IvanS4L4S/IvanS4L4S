@@ -81,7 +81,13 @@
 
 ### 🎖 &nbsp;Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/nr84v2d6owqrpw8wlnfoh4ioj))
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj&count={count})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj&width={width})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj&unique={true|1|on|yes})
 
 
 ---

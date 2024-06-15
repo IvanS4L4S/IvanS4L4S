@@ -81,7 +81,7 @@
 
 ### 🎖 &nbsp;Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/playlist/6xi0HAlNBP8FwtR2rREyTc?si=bfb0e0e1ac5c4fd3))
 
 ---
 

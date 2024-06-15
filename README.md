@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/rias.jpg)
 
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
@@ -79,9 +79,18 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;My Badges 
+### 🎖 &nbsp;Spotify Playing 🎧
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj)
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/nr84v2d6owqrpw8wlnfoh4ioj))
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
 ### 📜 &nbsp;My Articles

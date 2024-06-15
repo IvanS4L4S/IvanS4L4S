@@ -79,19 +79,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj)
-
+### 🎖 &nbsp;Spotify Playing 🎧
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj)
-
-
-
-
----
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 

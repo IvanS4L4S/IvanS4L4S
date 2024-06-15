@@ -79,15 +79,16 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;Spotify Playing 🎧
+### 🎖 &nbsp;
+
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj)
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj&count={count})
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj&width={width})
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj&unique={true|1|on|yes})
 
 
 ---

@@ -122,10 +122,10 @@
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
       width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=Tj7mR8KF-Mk" target="blank"><img align="center"
+  <a href="www.linkedin.com/in/iván-arnaldo-salas-37a11a276" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://telegram.com/" target="blank"><img align="center"
+  <a href="www.linkedin.com/in/iván-arnaldo-salas-37a11a276" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"
       alt="_._.adam._" height="30" width="40" /></a>
 

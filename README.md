@@ -16,7 +16,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/dxd1.png)" align="right"/>
+<img alt="codificando" src="https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/dxd1.png" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

@@ -1,6 +1,7 @@
+<!--                                       HOLA SI QUIERES COPIAR NO NINGUN PROBLEMA ESPERO QUE TE AYUDE A HACER MAS INTERASANTE TU GITHUB                                           -->
+
 ![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/Blue%20and%20Purple%20Modern%20Futuristic%20Tech%20Event%20Banner.png)
 
-<!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 

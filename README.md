@@ -108,7 +108,9 @@
 
 ### 🎖 &nbsp;Spotify Playing 🎧
 <div aling="center">
+  
          ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nr84v2d6owqrpw8wlnfoh4ioj)
+         
 </div>
 
 

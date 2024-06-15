@@ -1,4 +1,4 @@
-![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/rias.jpg)
+![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/dxd.png)
 
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 

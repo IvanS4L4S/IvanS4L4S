@@ -1,8 +1,9 @@
 <!--                                       HOLA SI QUIERES COPIAR NO NINGUN PROBLEMA ESPERO QUE TE AYUDE A HACER MAS INTERASANTE TU GITHUB                                           -->
 
-![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/Blue%20and%20Purple%20Modern%20Futuristic%20Tech%20Event%20Banner.png)
+![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/portada2.gif)
 
 
+<!-- ![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/Blue%20and%20Purple%20Modern%20Futuristic%20Tech%20Event%20Banner.png)-->
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨🏻‍💻 &nbsp;About Me

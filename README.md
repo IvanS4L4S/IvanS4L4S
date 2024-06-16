@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I am dedicated to learning computer hardware as hobbies and side activities.\
 💬 &nbsp;Please feel free to contact me for consulting, or just to have an interesting discussion.\
 📧 &nbsp;You can shoot me an email at ivanarnaldo1997@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://1drv.ms/b/s!Ar5FE-s1sxCdg99Zkqyuiq0R7in5mg?e=NW2afx) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [View](https://1drv.ms/b/s!Ar5FE-s1sxCdg99Zkqyuiq0R7in5mg?e=NW2afx) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="codificando" src="https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/nano2.gif" width="390" height="320" align="right"/>

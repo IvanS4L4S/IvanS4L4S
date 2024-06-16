@@ -1,6 +1,6 @@
 <!--                                       HOLA SI QUIERES COPIAR NO NINGUN PROBLEMA ESPERO QUE TE AYUDE A HACER MAS INTERASANTE TU GITHUB                                           -->
 
-![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/portada2.gif)
+![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/portada3.gif)
 
 
 <!-- ![portrada](https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/Blue%20and%20Purple%20Modern%20Futuristic%20Tech%20Event%20Banner.png)-->
@@ -18,7 +18,7 @@
 📄 &nbsp;Please have a look at my [View](https://1drv.ms/b/s!Ar5FE-s1sxCdg99Zkqyuiq0R7in5mg?e=NW2afx) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="codificando" src="https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/nano2.gif" width="390" height="320" align="right"/>
+<img alt="codificando" src="https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/bcl1.gif" width="390" height="" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
   <div align="left">

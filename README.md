@@ -120,13 +120,13 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iv%C3%A1n-arnaldo-salas-37a11a276/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/iv%C3%A1n-arnaldo-salas-37a11a276/" target="blank"><img align="center" target="blank"
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-  <a href="https://whatssap" target="blank"><img align="center"
+  <a href="https://wa.me/3885784213" target="blank"><img align="center" target="blank"
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" /></a>
-  <a href="https://telegram" target="blank"><img align="center"
+  <a href="https://t.me/DevivanCompany" target="blank"><img align="center" target="blank"
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
-  <a href="https://gmail" target="blank"><img align="center"
+  <a href="mailto:ivanarnaldo1997@gmail.com" target="blank"><img align="center" target="blank"
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 
 </p>

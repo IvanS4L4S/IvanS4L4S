@@ -7,14 +7,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
+👨‍💻 &nbsp;I'm currently developing my portfolio with backend and fronted projects..\
+💡 &nbsp;I like to explore new technologies and develop new skills.\
+🎓 &nbsp;I'm currently studying a Programmer Analyst degree at the Faculty of Engineering .\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✍️ &nbsp;In my free time, I am dedicated to learning computer hardware as hobbies and side activities.\
+💬 &nbsp;Please feel free to contact me for consulting, or just to have an interesting discussion.\
 📧 &nbsp;You can shoot me an email at ivanarnaldo1997@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://1drv.ms/b/s!Ar5FE-s1sxCdg99Zkqyuiq0R7in5mg?e=NW2afx) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="codificando" src="https://github.com/IvanS4L4S/IvanS4L4S/blob/main/assets/nano2.gif" width="390" height="320" align="right"/>
